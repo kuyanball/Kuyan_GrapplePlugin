@@ -1,7 +1,7 @@
 # Kuyan_GrapplePlugin
 Anniのグラップルにインスパイアされたグラップルプラグイン!
 
-## -- Hello World --
+## -- Hello World! --
 
 ## 特徴
 ### (1) シンプルな操作方法
